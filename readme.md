@@ -13,4 +13,5 @@
 * When a prime number is found it generates all multiples of it within the range and marks them as not prime.
 
 * This process is repeated from the first prime number in the range to square root of the nth number
+
 ![image](https://user-images.githubusercontent.com/64645167/126760328-f48aefed-50ac-498b-a6b2-3ed800bc1070.png)
